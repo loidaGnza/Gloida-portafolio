@@ -629,7 +629,7 @@ span {
   }
 
   .home__container {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 2fr;
     grid-auto-rows: auto;
   }
 
